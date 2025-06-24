@@ -1,2 +1,3 @@
-# Just_for_fun
-# Just_for_fun
+This is my github for personal works  :) 
+
+Welcome !
